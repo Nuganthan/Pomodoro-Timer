@@ -16,4 +16,4 @@ Once start a timer, the timer countdown starts it follows according to the sessi
 
 Start Button: which is used to start the Timer 
 
-Reset Button: Which is used to reset the button
+Reset Button: which is used to reset the button
